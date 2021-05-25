@@ -9,7 +9,9 @@
 
 ## Skills
 - hacking (horrible at it)
-
+- cooking (good)
+- programming (good, mostly game dev but I'm getting into exploits)
+- car repair
 
 ## Primary Languages
 - English
